@@ -1,0 +1,2 @@
+SELECT * FROM mujeres
+
